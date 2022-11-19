@@ -19,13 +19,13 @@
 -----
 
 <p align="center">
-<img src="https://cdn.discordapp.com/attachments/955100661488447509/1040907883463852042/image.png", width="500", height="250">
+<img src="https://cdn.discordapp.com/attachments/972965986766557215/1043405785977335850/image.png", width="500", height="250">
 </p>
 
 -----
 
 <p align="center">
-<img src="https://cdn.discordapp.com/attachments/955100661488447509/1040908681144963132/image.png", width="500", height="250">
+<img src="https://cdn.discordapp.com/attachments/972965986766557215/1043405821406609408/image.png", width="500", height="250">
 </p>
 
 
