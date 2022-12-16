@@ -25,7 +25,7 @@
 -----
 
 <p align="center">
-<img src="https://cdn.discordapp.com/attachments/972965986766557215/1043405821406609408/image.png", width="500", height="250">
+<img src="https://cdn.discordapp.com/attachments/972965986766557215/1053239894840979476/image.png", width="500", height="250">
 </p>
 
 
